@@ -6,7 +6,7 @@ import logo from "../assets/logo.png";
 import { firebaseAuth } from "../utils/firebase-config";
 import { FaPowerOff, FaSearch } from "react-icons/fa";
 
-export default function Navbar({ isScrolled }) {
+export default function NavBar({ isScrolled }) {
     const [showSearch, setShowSearch] = useState(false);
     const [inputHover, setInputHover] = useState(false);
     const links = [
