@@ -19,3 +19,5 @@ Full Stack Netflix Clone App using MERN stack
     yarn start
 
 ### You should be all set to check out the Netflix Clone using a MERN stack! Thank you.
+
+![Demo](netflixclone.gif)
