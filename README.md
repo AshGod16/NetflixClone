@@ -18,4 +18,4 @@ Full Stack Netflix Clone App using MERN stack
     ```bash
     yarn start
 
-# You should be all set to check out the Netflix Clone using a MERN stack! Thank you.
+### You should be all set to check out the Netflix Clone using a MERN stack! Thank you.
